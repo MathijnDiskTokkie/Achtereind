@@ -1,0 +1,27 @@
+﻿#Kop
+{
+    background:#FF6A00;
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:1500px;
+    height:153px;
+}
+#Menu
+{
+   width: 20%;
+   height: 76%;
+   bottom: 0px;
+   background: #ffd800;
+   left: 0px;
+   position: absolute;
+}
+#Inhoud
+{
+    width: 80%;
+    height: 76px;
+    bottom: 64%;
+    background :#ffe97f;
+    right : 0px;
+    position: absolute;
+}
